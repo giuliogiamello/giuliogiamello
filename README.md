@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 -->
 
-### Hi, I'm Giulio Giamello, from Siena, Italy.
+## Hi, I'm Giulio Giamello, from Siena, Italy.
 
-✨ _"I’m a **physics master student** mainly interested in <ins>particle physics</ins>, <ins>quantum field theory</ins>, coding and <ins>machine learning</ins>"_.
+✨ _"I’m a **physics PhD student** mainly interested in neutrino physics, events simulation and reconstruction, coding and machine learning"_.
 
-Currently, I'm a student of the **International Master on Advanced methods in Particle Physics** [IMAPP](https://imapp.eu/).
+Currently, I'm a PhD student at the **[University of Siena](https://en.unisi.it/)**, working with the INFN Siena group on the **[Hyper-Kamiokande](https://www-sk.icrr.u-tokyo.ac.jp/en/hk/)** experiment. 
 
 ---
 
 **Contact me:**
 
-If you would like to get in touch, feel free to reach me out
+if you would like to get in touch, feel free to reach me out
 
 - Email: <a href="mailto:giuliogiamello@gmail.com"><img align="center" src="https://img.shields.io/badge/giuliogiamello%40gmail.com-2ea44f?style=platic"/></a>
 - Website: <a href="https://giuliogiamello.github.io/"><img align="center" src="https://img.shields.io/badge/giuliogiamello.github.io-558b6c?style=platic"/></a>
