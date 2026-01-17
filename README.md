@@ -1,11 +1,15 @@
-## Hi there 👋
-
 <!--
 **giuliogiamello/giuliogiamello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 👋 Hi, I'm ...
+- 🇮🇹 I came from ...
 - 🔭 I’m currently working on ...
+- ⚛️ Science ...
+- 🛠 Tools
+- 🌍 Website ...
+- 💼 Work ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +17,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🛠 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 -->
+
+Hi, I'm **Giulio Giamello**, from Siena, Italy.
+
+✨ _"I’m a **physics master student** mainly interested in <ins>particle physics</ins>, <ins>quantum field theory</ins>, coding and <ins>machine learning</ins>"_.
+
+Currently, I'm a student of the **International Master on Advanced methods in Particle Physics** [IMAPP](https://imapp.eu/).
+
+---
+
+**Contact me:**
+
+If you would like to get in touch, feel free to reach me out
+
+- Email: <a href="mailto:giuliogiamello@gmail.com"><img align="center" src="https://img.shields.io/badge/giuliogiamello%40gmail.com-2ea44f?style=platic"/></a>
+- Website: <a href="https://giuliogiamello.github.io/"><img align="center" src="https://img.shields.io/badge/giuliogiamello.github.io-558b6c?style=platic"/></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/giulio-giamello/?locale=en_US"><img align="center" src="https://img.shields.io/badge/Giulio_Giamello-0077B5?style=platic&logo=linkedin&logoColor=white"/></a>
