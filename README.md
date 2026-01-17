@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 -->
 
-Hi, I'm **Giulio Giamello**, from Siena, Italy.
+### Hi, I'm Giulio Giamello, from Siena, Italy.
 
 ✨ _"I’m a **physics master student** mainly interested in <ins>particle physics</ins>, <ins>quantum field theory</ins>, coding and <ins>machine learning</ins>"_.
 
